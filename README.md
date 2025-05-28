@@ -1,2 +1,2 @@
-# 100-Day-Challenge-of-Leaarning-Python
+# 100-Day-Challenge-of-Learning-Python
 Learning python 
