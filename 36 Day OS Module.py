@@ -30,13 +30,13 @@ new_folders = [
     "33 Day Enumerate Function"
 ]
 
-# Exact old files for each folder (some .py names slightly different!)
+# Exact old files for each folder
 old_files = [
     ["33 Day Dictionaries.py", "33 Day ReadMe.txt"],
     ["34 Day Dictionaries methods.py", "34 Day ReadMe.txt"],
     ["35 Day For loop with else.py", "35 Day ReadMe.txt"],
     ["36 Day Exception handling.py", "36 Day ReadMe.txt"],
-    ["37 Day Final Keyword.py", "37 Day ReadMe.txt"],  # NOTE: Final, not Finally
+    ["37 Day Final Keyword.py", "37 Day ReadMe.txt"],  
     ["38 Day Customs Errors.py", "38 Day ReadMe.txt"],
     ["39 Day Short Hand If else.py", "39 Day ReadMe.txt"],
     ["40 Day Enumerate Function.py", "40 Day ReadMe.txt"]
@@ -48,7 +48,7 @@ new_files = [
     ["27 Day Dictionaries methods.py", "27 Day ReadMe.txt"],
     ["28 Day For loop with else.py", "28 Day ReadMe.txt"],
     ["29 Day Exception handling.py", "29 Day ReadMe.txt"],
-    ["30 Day Final Keyword.py", "30 Day ReadMe.txt"],  # Keep the same wording
+    ["30 Day Final Keyword.py", "30 Day ReadMe.txt"],  
     ["31 Day Customs Errors.py", "31 Day ReadMe.txt"],
     ["32 Day Short Hand If else.py", "32 Day ReadMe.txt"],
     ["33 Day Enumerate Function.py", "33 Day ReadMe.txt"]
