@@ -28,6 +28,12 @@ maxsize() :
 Sets the maximum width and height for the window.
 The user cannot stretch the window larger than this size.
 
+Adding a Label (Text Widget) :
+Code : { var1 = Label(text="Saboor is a written programmer")
+var1.pack()  }
+Label() creates a text widget showing "Saboor is a written programmer".
+pack() automatically positions the label inside the window (centered by default).
+
 Running the Application: 
 ( root.mainloop() )
 Starts the event loop which keeps the window open.
